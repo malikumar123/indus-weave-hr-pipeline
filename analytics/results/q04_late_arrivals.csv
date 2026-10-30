@@ -1,0 +1,11 @@
+﻿late_rank,emp_id,full_name,plant,dept_id,dept_name,department_as_of_date,late_arrival_days,total_late_minutes
+1,E10580,Usman Gill,Faisalabad Plant,D21,Cutting,2026-09-30,58,2622.92
+2,E10454,Raheel Khan,Faisalabad Plant,D23,Maintenance,2026-09-30,51,2143.17
+3,E10982,Adnan Akhtar,Korangi Plant,D13,Production Planning,2026-09-30,49,1957.47
+4,E10283,Ali Raza,Faisalabad Plant,D21,Cutting,2026-09-30,47,2260.40
+5,E10287,Naveed Hussain,Faisalabad Plant,D24,Quality Control,2026-09-30,47,2082.45
+6,E10824,Usman Baig,Korangi Plant,D08,Spinning,2026-09-30,47,1850.02
+7,E10741,Faisal Khan,Faisalabad Plant,D21,Cutting,2026-09-30,46,2045.45
+8,E10984,Ahmed Qureshi,Korangi Plant,D09,Weaving,2026-09-30,46,2026.77
+9,E10192,Saad Ahmed,Faisalabad Plant,D23,Maintenance,2026-09-30,45,1897.78
+10,E10901,Owais Awan,Korangi Plant,D09,Weaving,2026-09-30,45,1933.57

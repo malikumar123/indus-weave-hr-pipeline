@@ -1,0 +1,59 @@
+﻿month_start,emp_id,full_name,plant,dept_id,dept_name,hire_date,separation_date,gross_earnings,attendance_calendar_days,recorded_punches,days_with_punches,approved_leave_days,absent_days,review_reason
+2026-04-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,73525.00,30,0,0,0,25,Paid; attendance rows exist but no punches recorded
+2026-04-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,77400.00,30,0,0,0,25,Paid; attendance rows exist but no punches recorded
+2026-04-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,64225.00,30,0,0,0,25,Paid; attendance rows exist but no punches recorded
+2026-04-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,81275.00,30,0,0,0,25,Paid; attendance rows exist but no punches recorded
+2026-04-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,75075.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-04-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,85925.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-05-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,73525.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-05-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,77400.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-05-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,64225.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-05-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,81275.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-05-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2014-03-14,2026-04-23,132000.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-05-01,E10397,Owais Mirza,Korangi Plant,D08,Spinning,2023-01-17,2026-05-01,2122.00,1,0,0,0,0,Paid; attendance rows exist but no punches recorded
+2026-05-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,75075.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-05-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,85925.00,31,0,0,0,22,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,73525.00,30,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,77400.00,30,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2018-05-26,2026-05-18,73525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-06-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,64225.00,30,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2020-06-13,2026-05-14,80500.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-06-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,81275.00,30,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2014-03-14,2026-04-23,132000.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-06-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,75075.00,30,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-06-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,85925.00,30,0,0,0,23,Paid; attendance rows exist but no punches recorded
+2026-06-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2022-02-16,2026-05-16,104525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-06-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2013-07-17,2026-05-11,63450.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-07-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,80500.00,31,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-07-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,85150.00,31,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-07-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2018-05-26,2026-05-18,73525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-07-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,70425.00,31,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-07-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2020-06-13,2026-05-14,80500.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-07-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,89025.00,31,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-07-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2014-03-14,2026-04-23,132000.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-07-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,82050.00,31,0,0,0,27,Paid; attendance rows exist but no punches recorded
+2026-07-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,94450.00,31,0,0,0,27,Paid; attendance rows exist but no punches recorded
+2026-07-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2022-02-16,2026-05-16,104525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-07-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2013-07-17,2026-05-11,63450.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-08-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,80500.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,85150.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2018-05-26,2026-05-18,73525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-08-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,70425.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2020-06-13,2026-05-14,80500.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-08-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,89025.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2014-03-14,2026-04-23,132000.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-08-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,82050.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,94450.00,31,0,0,0,24,Paid; attendance rows exist but no punches recorded
+2026-08-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2022-02-16,2026-05-16,104525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-08-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2013-07-17,2026-05-11,63450.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-09-01,E10907,Sohail Baig,Faisalabad Plant,D21,Cutting,2025-06-26,,80500.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-09-01,E10491,Sajid Javed,Faisalabad Plant,D22,Packing,2025-08-02,,85150.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-09-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2018-05-26,2026-05-18,73525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-09-01,E10564,Danish Hashmi,Faisalabad Plant,D23,Maintenance,2025-04-11,,70425.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-09-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2020-06-13,2026-05-14,80500.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-09-01,E11064,Sajid Memon,Faisalabad Plant,D25,Warehouse,2025-11-20,,89025.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-09-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2014-03-14,2026-04-23,132000.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-09-01,E11089,Sajid Javed,Korangi Plant,D09,Weaving,2025-11-04,,82050.00,30,0,0,0,25,Paid; attendance rows exist but no punches recorded
+2026-09-01,E10399,Fatima Chaudhry,SITE Plant,D14,Dyeing,2025-09-06,,94450.00,30,0,0,0,26,Paid; attendance rows exist but no punches recorded
+2026-09-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2022-02-16,2026-05-16,104525.00,0,0,0,0,0,Paid; no attendance rows for this month
+2026-09-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2013-07-17,2026-05-11,63450.00,0,0,0,0,0,Paid; no attendance rows for this month

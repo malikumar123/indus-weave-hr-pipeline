@@ -1,0 +1,6 @@
+﻿month_start,plant,dept_id,dept_name,computed_observed_hours,paid_hours,excess_paid_hours,paid_above_computed_percent,paid_overtime_amount,incomplete_punch_days,review_reason
+2026-05-01,Faisalabad Plant,D20,Stitching,832.0000,1008.0000,176.0000,21.15,473693.00,324,Paid OT exceeds observed OT by more than 15%
+2026-06-01,Faisalabad Plant,D20,Stitching,725.0000,1122.0000,397.0000,54.76,527751.00,315,Paid OT exceeds observed OT by more than 15%
+2026-07-01,Faisalabad Plant,D20,Stitching,786.5000,1440.5000,654.0000,83.15,721695.00,301,Paid OT exceeds observed OT by more than 15%
+2026-08-01,Faisalabad Plant,D20,Stitching,890.5000,1548.5000,658.0000,73.89,778714.00,324,Paid OT exceeds observed OT by more than 15%
+2026-09-01,Faisalabad Plant,D20,Stitching,748.0000,1778.5000,1030.5000,137.77,923936.00,271,Paid OT exceeds observed OT by more than 15%

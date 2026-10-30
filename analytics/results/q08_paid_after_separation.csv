@@ -1,0 +1,22 @@
+﻿month_start,emp_id,full_name,plant,dept_id,dept_name,separation_date,months_after_separation,gross_earnings,deductions,net_payroll_amount,overtime_amount,payroll_line_count,review_reason
+2026-05-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2026-04-23,1,132000.00,4420.00,127580.00,0.00,6,Positive earnings in a month after separation month
+2026-06-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2026-05-18,1,73525.00,635.00,72890.00,0.00,6,Positive earnings in a month after separation month
+2026-06-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2026-05-14,1,80500.00,705.00,79795.00,0.00,6,Positive earnings in a month after separation month
+2026-06-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2026-04-23,2,132000.00,4420.00,127580.00,0.00,6,Positive earnings in a month after separation month
+2026-06-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2026-05-16,1,104525.00,1398.00,103127.00,0.00,6,Positive earnings in a month after separation month
+2026-06-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2026-05-11,1,63450.00,534.00,62916.00,0.00,6,Positive earnings in a month after separation month
+2026-07-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2026-05-18,2,73525.00,635.00,72890.00,0.00,6,Positive earnings in a month after separation month
+2026-07-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2026-05-14,2,80500.00,705.00,79795.00,0.00,6,Positive earnings in a month after separation month
+2026-07-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2026-04-23,3,132000.00,4420.00,127580.00,0.00,6,Positive earnings in a month after separation month
+2026-07-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2026-05-16,2,104525.00,1398.00,103127.00,0.00,6,Positive earnings in a month after separation month
+2026-07-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2026-05-11,2,63450.00,534.00,62916.00,0.00,6,Positive earnings in a month after separation month
+2026-08-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2026-05-18,3,73525.00,635.00,72890.00,0.00,6,Positive earnings in a month after separation month
+2026-08-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2026-05-14,3,80500.00,705.00,79795.00,0.00,6,Positive earnings in a month after separation month
+2026-08-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2026-04-23,4,132000.00,4420.00,127580.00,0.00,6,Positive earnings in a month after separation month
+2026-08-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2026-05-16,3,104525.00,1398.00,103127.00,0.00,6,Positive earnings in a month after separation month
+2026-08-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2026-05-11,3,63450.00,534.00,62916.00,0.00,6,Positive earnings in a month after separation month
+2026-09-01,E10989,Tariq Jatoi,Faisalabad Plant,D22,Packing,2026-05-18,4,73525.00,635.00,72890.00,0.00,6,Positive earnings in a month after separation month
+2026-09-01,E10332,Amna Awan,Faisalabad Plant,D25,Warehouse,2026-05-14,4,80500.00,705.00,79795.00,0.00,6,Positive earnings in a month after separation month
+2026-09-01,E10471,Umair Baloch,Head Office,D01,Human Resources,2026-04-23,5,132000.00,4420.00,127580.00,0.00,6,Positive earnings in a month after separation month
+2026-09-01,E11222,Naveed Ansari,SITE Plant,D14,Dyeing,2026-05-16,4,104525.00,1398.00,103127.00,0.00,6,Positive earnings in a month after separation month
+2026-09-01,E10295,Sohail Hussain,SITE Plant,D15,Finishing,2026-05-11,4,63450.00,534.00,62916.00,0.00,6,Positive earnings in a month after separation month
